@@ -3,6 +3,6 @@
 
 int main()
 {
-	cout << "Writing C++ after a long time <3" << endl;
+	cout << "Writing C++ after a long time xD" << endl;
 	return 0;
 }
